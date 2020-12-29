@@ -1,0 +1,25 @@
+.log
+{
+	text-align: center; 
+	padding: 10px;
+	font-size: 15px;
+}
+
+
+p
+{
+	color: white;
+}
+
+.colorbar
+{
+	align-items: center;
+	background-color: black;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+form
+{
+		color: white;
+}
